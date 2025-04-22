@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shuham5234
 - 👀 Interested in creating and developing Websites.
-- 🌱 Currently working on python. 
+- 🌱 Currently working on python.
+- 👨‍💻Completed Web Full stack.
 - 💞️ Looking Forward to exploring more in web dev. Love to be a part of exciting projects. 
 - 📫 Reach me: shubhamsabale8421@gmail.com
 
