@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shuham5234
 - 👀 Interested in creating and developing Websites.
-- 🌱 Currently working on python.
-- 👨‍💻Completed Web Full stack.
+- 🌱 Currently Peruse MCA .
+- 👨‍💻Completed Web Full stack And AIML In Python
 - 💞️ Looking Forward to exploring more in web dev. Love to be a part of exciting projects. 
 - 📫 Reach me: shubhamsabale8421@gmail.com
